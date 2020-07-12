@@ -190,6 +190,19 @@ hr.smallhr {
   margin-bottom:200px;
 }
 
+.parallax2 {
+  background-image: url("../images/parallax2.jpg");
+
+  min-height: 800px; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  margin-bottom:200px;
+}
+
 .parallaxcaption {
 	float:right;
 	background-color:white;
